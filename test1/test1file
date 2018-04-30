@@ -1,2 +1,3 @@
 console.log(123);
 console.log("dit werd toegevoegd in de master branch");
+console.log("Dit werd toegevoegd in de master na de merge langs 2 kanten");
