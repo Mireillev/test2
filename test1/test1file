@@ -1,3 +1,4 @@
 console.log(123);
 console.log("een testeke");
 console.log("En deze tekst is ook toegevoegd in de login branch");
+console.log("De bovenstaande regel is bij de vorige merge verworpen. Wat gebeurt er nu mee? En deze nnieuwe regel die is toegevoegd in de login branch na de 1e merge??");
